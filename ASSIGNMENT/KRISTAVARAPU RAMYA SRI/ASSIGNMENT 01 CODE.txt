@@ -1,0 +1,3 @@
+url = 'file name'
+with open (f) as file:
+c = file.read()
